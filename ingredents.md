@@ -1,0 +1,10 @@
+maggie
+masala
+salt
+onion
+potato
+garlic
+wary
+cheese
+water
+oil
